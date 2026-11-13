@@ -1,4 +1,4 @@
-<form action="process.php" method="post">
+<form action="process.php" method="post" novalidate>
     <label for="name">Nama</label>
     <input id="name" name="name" required maxlength="100">
 
